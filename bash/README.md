@@ -2,14 +2,14 @@
 ---The Bourne-Again Shell
 
 Logo\
-![](logo/jpg/full_colored_light.jpg)\
-![][[logo/jpg/monochrome_dark.jpg|width=100px]]
-![](logo/jpg/full_colored_dark.jpg | width=100px)\
+[[logo/jpg/full_colored_light.jpg | width=100px | alt="Bash light coloured logo"]]\
+[[logo/jpg/monochrome_dark.jpg | width=100px | alt="Bash monochromed logo"]]\
+[[logo/jpg/full_colored_dark.jpg | width=100px | alt="Bash dark coloured logo"]]\
 
 Icon
-![](symbol/jpg/full_colored_light.jpg | width=50)
-![](symbol/jpg/monochrome_dark.jpg | width=50px)
-![](symbol/jpg/full_colored_dark.jpg | width=50px)\
+![](symbol/jpg/full_colored_light.jpg) \
+![](symbol/jpg/monochrome_dark.jpg) \
+![](symbol/jpg/full_colored_dark.jpg) \
 
 ./logo:
 jpg  png  svg
