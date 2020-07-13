@@ -2,8 +2,7 @@
 ---The Bourne-Again Shell
 
 Logo\
-<img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/full_colored_dark.jpg" width=400px></img> \
-<img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/monochrome_dark.jpg" width=400px></img> \
+<img src="https://github.com/NgineerBabu/logo/blob/master/bash/logo/jpg/full_colored_light.jpg" width=400px></img> \
 <img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/full_colored_dark.jpg" width=400px></img> \
 
 Icon
