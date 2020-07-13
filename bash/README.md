@@ -3,12 +3,12 @@
 
 Logo\
 ![](logo/jpg/full_colored_light.jpg)\
-![][[logo/jpg/monochrome_dark.jpg | width=100px]]\
+![][[logo/jpg/monochrome_dark.jpg | width=100px]]
 ![](logo/jpg/full_colored_dark.jpg | width=100px)\
 
 Icon
-![](symbol/jpg/full_colored_light.jpg | width=50px)\
-![](symbol/jpg/monochrome_dark.jpg | width=50px)\
+![](symbol/jpg/full_colored_light.jpg | width=50)
+![](symbol/jpg/monochrome_dark.jpg | width=50px)
 ![](symbol/jpg/full_colored_dark.jpg | width=50px)\
 
 ./logo:
