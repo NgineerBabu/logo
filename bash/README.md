@@ -2,7 +2,7 @@
 ---The Bourne-Again Shell
 
 Logo\
-[[logo/jpg/full_colored_light.jpg | width=100px | alt="Bash light coloured logo"]]\
+[[logo/jpg/full_colored_light.jpg | width=100px]]\
 [[logo/jpg/monochrome_dark.jpg | width=100px | alt="Bash monochromed logo"]]\
 [[logo/jpg/full_colored_dark.jpg | width=100px | alt="Bash dark coloured logo"]]\
 
