@@ -1,14 +1,17 @@
 # Bash Logo
 ---The Bourne-Again Shell
 
-Logo\
+[Logo]
+---
 <img src="https://github.com/NgineerBabu/logo/blob/master/bash/logo/jpg/full_colored_light.jpg" width=400px></img> \
 <img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/full_colored_dark.jpg" width=400px></img> \
 
-Icon
-![](symbol/jpg/full_colored_light.jpg) \
-![](symbol/jpg/monochrome_dark.jpg) \
-![](symbol/jpg/full_colored_dark.jpg) \
+
+[Icon]
+---
+<img src="https://github.com/NgineerBabu/logo/blob/master/bash/symbol/jpg/full_colored_light.jpg" width=150px></img> \
+<img src="https://github.com/NgineerBabu/logo/blob/master/bash/symbol/jpg/monochrome_dark.jpg" width=150px></img> \
+<img src="https://github.com/NgineerBabu/logo/raw/master/bash/symbol/jpg/full_colored_dark.jpg" width=150px></img> \
 
 ./logo:
 jpg  png  svg
