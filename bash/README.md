@@ -17,7 +17,7 @@
 &emsp;&emsp;&emsp;<img src="https://github.com/NgineerBabu/logo/blob/master/bash/symbol/jpg/monochrome_dark.jpg" width=150px></img>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/NgineerBabu/logo/raw/master/bash/symbol/jpg/full_colored_dark.jpg" width=150px></img> \
 <br /><br /><br /><br /><br />
 
-./logo:
+./logo:\
 jpg\
 png\
 svg
