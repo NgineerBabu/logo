@@ -2,9 +2,9 @@
 ---The Bourne-Again Shell
 
 Logo\
-![](logo/jpg/full_colored_light.jpg =100x) \
-[[logo/jpg/monochrome_dark.jpg | width=100px | alt="Bash monochromed logo"]]\
-[[logo/jpg/full_colored_dark.jpg | width=100px | alt="Bash dark coloured logo"]]\
+<img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/full_colored_dark.jpg" width=400px></img> \
+<img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/monochrome_dark.jpg" width=400px></img> \
+<img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/full_colored_dark.jpg" width=400px></img> \
 
 Icon
 ![](symbol/jpg/full_colored_light.jpg) \
