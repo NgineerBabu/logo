@@ -21,47 +21,54 @@
 jpg\
 png\
 svg
-\
-./logo/jpg:
+
+
+./logo/jpg:\
 full_colored_dark.jpg\
 full_colored_light.jpg\
 monochrome_dark.jpg
 
-./logo/png:
+
+./logo/png:\
 full_colored_dark.png\
 full_colored_light.png\
 monochrome_dark.png
 
-./logo/svg:
+
+./logo/svg:\
 full_colored_dark.svg\
 full_colored_light.svg\
 monochrome_dark.svg
 
-./symbol:
-jpg
-png
+
+
+./symbol:\
+jpg\
+png\
 svg
 
 
 
-./symbol/jpg:
+./symbol/jpg:\
 full_colored_dark.jpg\
 full_colored_light.jpg\
 monochrome_dark.jpg\
-monochrome_light.jpg\
-\
-./symbol/png:
+monochrome_light.jpg
+
+
+./symbol/png:\
 full_colored_dark.png\
 full_colored_light.png\
 monochrome_dark.png\
-monochrome_light.png\
-\
-./symbol/svg:
+monochrome_light.png
+
+
+./symbol/svg:\
 full_colored_dark.svg\
 full_colored_light.svg\
 monochrome_dark.svg\
 monochrome_light.svg\
 
-\
+
 
 [Source] (https://bashlogo.com)
