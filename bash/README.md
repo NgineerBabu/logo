@@ -9,8 +9,7 @@
 \
 <img src="https://raw.githubusercontent.com/NgineerBabu/logo/master/bash/logo/jpg/monochrome_dark.jpg" width=400px></img> \
 
-\
-
+<br /><br />
 
 [Symbol]
 ---
