@@ -3,7 +3,7 @@
 
 Logo\
 ![](logo/jpg/full_colored_light.jpg)\
-![][[logo/jpg/monochrome_dark.jpg | width=100px]]
+![][[logo/jpg/monochrome_dark.jpg|width=100px]]
 ![](logo/jpg/full_colored_dark.jpg | width=100px)\
 
 Icon
