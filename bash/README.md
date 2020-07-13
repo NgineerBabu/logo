@@ -67,7 +67,7 @@ monochrome_light.png
 full_colored_dark.svg\
 full_colored_light.svg\
 monochrome_dark.svg\
-monochrome_light.svg\
+monochrome_light.svg
 
 
 
